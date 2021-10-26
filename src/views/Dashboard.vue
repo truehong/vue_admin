@@ -1,6 +1,10 @@
 <template>
-  <div>
-      Dashboard page
+   <div>
+      <v-container fluid>
+        <v-card class="pa-3">
+          Dashboard Page
+        </v-card>
+      </v-container>
   </div>
 </template>
 
